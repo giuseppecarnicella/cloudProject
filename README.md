@@ -11,7 +11,7 @@ This technique is commonly used in photography and design to highlight key eleme
 ## 📁 Repository Contents
 
 - `lambda_function.py` – Core AWS Lambda function implementing the image transformation.
-- `report.pdf` – Detailed project report covering design, implementation, and analysis.
+- `Cloud_report.pdf` – Detailed project report covering design, implementation, and analysis.
 
 
 
